@@ -1,4 +1,4 @@
 printf("Hello, world");
-A=10;
+A=-2;
 B=10;
 C= A + B;
