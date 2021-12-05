@@ -1,0 +1,4 @@
+printf("Hello, world");
+A=5;
+B=10;
+C=15;
